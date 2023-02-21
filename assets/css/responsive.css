@@ -1,0 +1,35 @@
+@media screen and (min-width: 992px) {
+    .content{
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+
+    ol.pokemons{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .content{
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    ol.pokemons{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .content{
+        min-width: 280px;
+        margin: 0 auto;
+    }
+    ol.pokemons{
+        grid-template-columns: 1fr;
+    }
+}

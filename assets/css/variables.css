@@ -1,0 +1,26 @@
+:root {
+    --green-white: #49d0b0;
+    --green-light: #61e1ca;
+    --white: #fff;
+    --black: #000;
+    --gray: #f6f8fc;
+    --normal: #a6a877;
+    --grass: #77c850;
+    --fire:  #ee7f30;
+    --water: #678fee;
+    --electric: #f7cf2c;
+    --ice: #98d5d7;
+    --ground: #dfbf69;
+    --flying: #a98ff0;
+    --psychic: #f65687;
+    --dark: #725847;
+    --rock: #b8a137;
+    --bug: #a8b720;
+    --ghost: #6e5896;
+    --steel: #b967cf;
+    --dragon: #6f38f8;
+    --fairy: #f9aec7;
+    --button: #6c79db;
+    --poison: #a58383;
+    --fighting: #5a46b4;
+  }
